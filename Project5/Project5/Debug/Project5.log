@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\oscaric1\documents\visual studio 2015\projects\project5\project5\source.cpp(34): warning C4305: 'argument': truncation from '__int64' to 'Uint32'
+c:\users\oscaric1\documents\visual studio 2015\projects\project5\project5\source.cpp(34): warning C4309: 'argument': truncation of constant value
+  Project5.vcxproj -> c:\users\oscaric1\documents\visual studio 2015\Projects\Project5\Debug\Project5.exe
+  Project5.vcxproj -> c:\users\oscaric1\documents\visual studio 2015\Projects\Project5\Debug\Project5.pdb (Partial PDB)
